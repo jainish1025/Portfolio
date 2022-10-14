@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d016ad1.css",
+    "main.js": "/static/js/main.08f69816.js",
+    "static/js/787.ced97632.chunk.js": "/static/js/787.ced97632.chunk.js",
+    "static/media/p3.png": "/static/media/p3.aa2254d956cfbd62afc8.png",
+    "static/media/p2.png": "/static/media/p2.b8d52a4701e82e8edf90.png",
+    "static/media/p1.png": "/static/media/p1.6682b91c36d5a5302d5f.png",
+    "static/media/jainish-CV.pdf": "/static/media/jainish-CV.31f9614ca82559b82242.pdf",
+    "static/media/Cutetastic.png": "/static/media/Cutetastic.45eba9415f73862bf418.png",
+    "static/media/profile1.png": "/static/media/profile1.c6f5d8bd01f1d9560b7d.png",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.2d016ad1.css.map": "/static/css/main.2d016ad1.css.map",
+    "main.08f69816.js.map": "/static/js/main.08f69816.js.map",
+    "787.ced97632.chunk.js.map": "/static/js/787.ced97632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d016ad1.css",
+    "static/js/main.08f69816.js"
+  ]
+}
